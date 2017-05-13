@@ -1,0 +1,8 @@
+Work done -:
+
+
+.Understanding Coding regulations
+.How to make the code readable and why its important?
+.Sublime text installation and commenting on code
+.Git installation and integration to beta version  Github working
+. Pushing the previous work to Github 
