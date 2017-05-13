@@ -1,0 +1,3 @@
+1. Learned how to use github.
+2. Learned how to crawl images and about training for cascade xml files (crawled some images uploaded in Day4).
+3. Read about fishcer faces and its implementation for face detection.
