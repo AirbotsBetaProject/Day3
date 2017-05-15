@@ -1,0 +1,6 @@
+Understanding coding regulations.
+Importance of sublime and learned how to install it with PEP8.
+Watched the videos on Git and Github.
+Learned how to use Git and Installed Github.
+Got to know what is the Motto and purpose of using Github.
+
