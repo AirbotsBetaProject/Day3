@@ -1,0 +1,4 @@
+Understanding Coding regulations
+Making the code readable and its importance
+Sublime text
+Git & Github 
