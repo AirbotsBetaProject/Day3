@@ -1,0 +1,6 @@
+Understanding Coding regulations
+Making the code readable and its importance
+Sublime text
+Git & Github 
+Read concepts about motion detection
+watched vedios about Data-Processing,Training Automation.
